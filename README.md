@@ -1,5 +1,5 @@
 # Home-Assistant---Nest-Authenticator-Extractor
-Chrome Extension that etracts the Issue Token Request URL and the Cookie Header Value from Google for Home Assistant Nest integration.
+Chrome Extension that etracts the Issue Token Request URL and the oauth2/iframe Cookie Header Value from Google for Home Assistant Nest integration.
 
 This browser extension was designed for Google Chrome to extract the Issue Token Request and the Cookie Header Value from Google after you have logged in. These two values are needed for Home Assistant Nest integration.
 
